@@ -3,3 +3,5 @@
   tasks:
   roles:
     - prometheus
+    - node-exporter
+    - grafana
